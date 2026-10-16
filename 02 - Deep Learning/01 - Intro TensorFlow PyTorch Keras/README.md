@@ -19,4 +19,4 @@
 ## Entregables
 | Entregable | Archivos | Calificación | Estado |
 |---|---|---|---|
-| **Tarea 1: Clasificación lineal** (regresión logística con pesos por clase sobre *Wine*) | [plantilla](entregables/Tarea%201/v2_M5U1_Tarea_1.ipynb) · [resuelto](entregables/Tarea%201/v2_M5U1_Tarea_1_Resuelto.ipynb) · [documentación](entregables/Tarea%201/documentacion.md) · [informe (PDF)](entregables/Tarea%201/Tarea1_Analisis_de_fondo.pdf) | UNCode, 6 funciones y 12 pruebas | 100 % en el notebook (límite 8-oct, 23:59; confirmar la fecha del envío en UNCode) |
+| **Tarea 1: Clasificación lineal** (regresión logística con pesos por clase sobre *Wine*) | [plantilla](entregables/Tarea%201/v2_M5U1_Tarea_1.ipynb) · [resuelto](entregables/Tarea%201/v2_M5U1_Tarea_1_Resuelto.ipynb) · [documentación](entregables/Tarea%201/documentacion.md) · [informe (PDF)](entregables/Tarea%201/Tarea1_Analisis_de_fondo.pdf) | UNCode, 6 funciones y 12 pruebas | ✅ Entregada (límite 8-oct, 23:59) · **100 %** |

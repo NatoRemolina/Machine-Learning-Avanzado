@@ -5,7 +5,7 @@
 | **Módulo** | Deep Learning (MLDS 5) · Unidad 1: Introducción al Deep Learning (TensorFlow y Keras) |
 | **Archivos** | [v2_M5U1_Tarea_1.ipynb](v2_M5U1_Tarea_1.ipynb) (plantilla sin resolver) · [v2_M5U1_Tarea_1_Resuelto.ipynb](v2_M5U1_Tarea_1_Resuelto.ipynb) (versión entregada) · [Tarea1_Analisis_de_fondo.pdf](Tarea1_Analisis_de_fondo.pdf) (informe de resultados) |
 | **Calificación** | Automática en **UNCode**: [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/cd16b03a-f1d7-4cc0-9a82-61ed5c8d030d) |
-| **Fecha límite** | 8 de octubre de 2026, 23:59 (hora de Colombia). El notebook resuelto es del 15 de octubre: falta confirmar en UNCode la fecha del envío que cuenta |
+| **Fecha límite** | 8 de octubre de 2026, 23:59 (hora de Colombia). Entregada en UNCode |
 | **Resultado** | ✅ **100 %**: las 12 pruebas en 100 y *"Your submission grade: 100.0%"* |
 | **Entorno de ejecución** | Google Colab · Python 3.13.16 · TensorFlow 2.21.0 · Keras 3.13.2 (la plantilla se hizo con Python 3.11, TensorFlow 2.18 y Keras 3.8) |
 | **Estructura** | 71 celdas · 6 funciones · 12 pruebas + envío final. Solo se modificaron las 6 celdas de funciones |
