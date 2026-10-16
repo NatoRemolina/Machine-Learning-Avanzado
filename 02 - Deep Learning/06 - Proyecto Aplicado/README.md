@@ -26,7 +26,7 @@ Ejecutar un proyecto de deep learning usando las técnicas y herramientas del cu
 | Dataset | **TrashNet** (Thung & Yang), `dataset-resized.zip` en Hugging Face con la revisión `94cd17eb…` fijada; 2.527 imágenes de 512×384 en 6 clases: cardboard, glass, metal, paper, plastic, trash |
 | Modelos | **A:** CNN pequeña entrenada desde cero · **B:** MobileNetV2 con pesos de ImageNet (transfer learning, con fine tuning opcional; ver [U3](../03%20-%20Redes%20Convolucionales/notas.md)) |
 | Métrica principal | F1 macro. Metas: F1 macro ≥ 0,80 y recall ≥ 0,60 por clase en prueba |
-| Integrantes | **A** · Juan Carlos Andrade Unigarro (datos, trazabilidad y evaluación) · **B** · Natalia Patricia Remolina Rodriguez (modelos y experimentos). Equipo de 2, aunque las instrucciones piden grupos de 3 |
+| Integrantes | **A** · Juan Carlos Andrade Unigarro (datos, trazabilidad y evaluación) · **B** · Natalia Patricia Remolina Rodriguez (modelos y experimentos). Equipo de 2, aceptado por el docente (las instrucciones piden 3) |
 
 **Hallazgos de la Fase 1**
 - Las 2.527 imágenes se leen sin errores y los conteos coinciden con la fuente.
@@ -69,7 +69,7 @@ Imagen completa: [Rubrica Fase 1.png](Proyecto/Fase%201-Entrega%201/Rubrica%20Fa
 - [x] Ejecutado en Colab el 15-oct: 12 celdas numeradas, sin errores y los 10 controles en OK. Esa versión es la que está en la carpeta, con la fecha de las referencias y la frase del horizonte corregidas (solo celdas de texto).
 - [x] Entregada en Classroom (15-oct).
 - [ ] Guardar `residuos_fase1/reportes/manifiesto_modelado.csv` de la sesión de Colab en Drive. Ahí está la partición oficial y Colab borra los archivos al cerrar la sesión.
-- [ ] Confirmar con el asistente docente que se acepta un equipo de 2 personas (las instrucciones piden 3).
+- [x] El docente aceptó el equipo de 2 personas (16-oct).
 - [x] Referencia 10, formato de miles (2.527), título de la gráfica y metadato `validation` corregidos (15-oct).
 
 **Verificación (15-oct-2026):** el notebook editado se ejecutó completo desde cero, sin errores. Reproduce los mismos resultados (6 conflictos, 28 pares similares, 2.521 imágenes utilizables, partición 1.766 / 378 / 377) con Python 3.14, pandas 3.0 y scikit-learn 1.9.
