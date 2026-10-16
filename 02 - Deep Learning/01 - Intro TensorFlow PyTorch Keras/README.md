@@ -17,4 +17,6 @@
 - En el `print` del ejemplo de `GradientTape` parece decir `my_func1` en lugar de `my_func` (la imagen no es del todo legible).
 
 ## Entregables
-_Sin registrar._
+| Entregable | Archivos | Calificación | Estado |
+|---|---|---|---|
+| **Tarea 1: Clasificación lineal** (regresión logística con pesos por clase sobre *Wine*) | [plantilla](entregables/Tarea%201/v2_M5U1_Tarea_1.ipynb) · [documentación](entregables/Tarea%201/documentacion.md) | UNCode, 6 funciones y 12 pruebas | Plantilla documentada; falta la versión resuelta |
