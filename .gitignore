@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos y modelos generados al ejecutar los notebooks
+residuos_fase1/
+*.weights.h5
+*.keras
+
+# Respaldos locales
+.respaldos/
