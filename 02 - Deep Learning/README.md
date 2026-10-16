@@ -45,7 +45,7 @@ Para aprobar (según el folleto): nota global ≥ 3.0 / 5 y el 80 % de las activ
 | Entregable | Peso | Unidad | Fecha de entrega | Estado | Nota |
 |------------|------|--------|------------------|--------|------|
 | Tarea 1 · Clasificación lineal ([doc](01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/entregables/Tarea%201/documentacion.md)) | | U1 | | ✅ Entregada en UNCode | 100 % |
-| Tarea 2 · Redes neuronales con Keras ([doc](02%20-%20Redes%20Neuronales%20Keras/entregables/Tarea%202/documentacion.md)) | | U2 | | ✅ Entregada en UNCode | 100 % |
+| Tarea 2 · Redes neuronales con Keras ([doc](02%20-%20Redes%20Neuronales%20Keras/entregables/Tarea%202/documentacion.md)) | | U2 | 15-oct-2026, 23:59 COT | ✅ Entregada a tiempo en UNCode | 100 % |
 | Taller 3 | | | | | |
 | Taller 4 | | | | | |
 | Taller 5 | | | | | |

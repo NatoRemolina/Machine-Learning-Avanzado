@@ -11,4 +11,4 @@
 ## Entregables
 | Entregable | Archivos | Calificación | Estado |
 |---|---|---|---|
-| **Tarea 2: Redes neuronales con Keras** (clasificación de Digits y regresión de Diabetes) | [plantilla](entregables/Tarea%202/v2_M5U2_Tarea_2.ipynb) · [resuelto](entregables/Tarea%202/v2_M5U2_Tarea_2_Resuelto.ipynb) · [documentación](entregables/Tarea%202/documentacion.md) · [análisis de fondo (PDF)](entregables/Tarea%202/Tarea2_Analisis_de_fondo.pdf) | UNCode, 9 funciones y 18 pruebas | ✅ Entregada · **100 %** |
+| **Tarea 2: Redes neuronales con Keras** (clasificación de Digits y regresión de Diabetes) | [plantilla](entregables/Tarea%202/v2_M5U2_Tarea_2.ipynb) · [resuelto](entregables/Tarea%202/v2_M5U2_Tarea_2_Resuelto.ipynb) · [documentación](entregables/Tarea%202/documentacion.md) · [análisis de fondo (PDF)](entregables/Tarea%202/Tarea2_Analisis_de_fondo.pdf) | UNCode, 9 funciones y 18 pruebas | ✅ Entregada a tiempo (límite 15-oct, 23:59) · **100 %** |

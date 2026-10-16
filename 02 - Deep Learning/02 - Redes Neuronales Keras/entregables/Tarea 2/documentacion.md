@@ -5,6 +5,7 @@
 | **Módulo** | Deep Learning (MLDS 5) · Unidad 2: Redes neuronales en Keras |
 | **Archivos** | [v2_M5U2_Tarea_2.ipynb](v2_M5U2_Tarea_2.ipynb) (plantilla vacía) · [v2_M5U2_Tarea_2_Resuelto.ipynb](v2_M5U2_Tarea_2_Resuelto.ipynb) (versión entregada) · [Tarea2_Analisis_de_fondo.pdf](Tarea2_Analisis_de_fondo.pdf) (guía con gráficas) |
 | **Calificación** | Automática en **UNCode**: [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/53b13ba1-cfc1-46fe-b4ad-2393da25a238) |
+| **Fecha límite** | 15 de octubre de 2026, 23:59 (hora de Colombia). Entregada a tiempo |
 | **Resultado** | ✅ **100 %**: las 18 pruebas en 100 y envío *"Grading succeeded"* |
 | **Entorno de ejecución** | Google Colab · Python 3.13.16 · NumPy 2.1.3 · Keras 3.13.2 · scikit-learn 1.9.1 (la plantilla se hizo con Python 3.11, NumPy 2.0 y Keras 3.8) |
 | **Estructura** | 101 celdas · 9 funciones calificadas · 18 pruebas + envío final |
