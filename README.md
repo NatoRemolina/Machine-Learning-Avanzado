@@ -6,11 +6,15 @@ Material, apuntes y entregables del **Diplomado Machine Learning and Data Scienc
 
 El diplomado suma 192 horas en 3 módulos de 64 horas, con 4 créditos homologables cada uno. Fuente: [Machine learning Avanzado.pdf](Machine%20learning%20Avanzado.pdf).
 
+## Proyecto destacado
+
+**[Análisis de sentimiento en noticias económicas en español](01%20-%20Procesamiento%20y%20Entendimiento%20de%20Lenguaje%20Natural/06%20-%20Proyecto%20Aplicado/README.md):** proyecto aplicado del módulo de NLP. Corpus de 7.125 oraciones financieras, preprocesamiento con spaCy, comparación de BoW, TF-IDF, Word2Vec y Doc2Vec, y modelo final TF-IDF + regresión logística (F1 macro 0,66).
+
 ## Módulos
 
 | # | Módulo | SIA | Fechas (2026) | Estado | Carpeta |
 |---|--------|-----|---------------|--------|---------|
-| 1 | Procesamiento y entendimiento de lenguaje natural | 2029448 | 12 ago – 19 sep | Terminado | [01 - Procesamiento y Entendimiento de Lenguaje Natural](01%20-%20Procesamiento%20y%20Entendimiento%20de%20Lenguaje%20Natural/README.md) |
+| 1 | Procesamiento y entendimiento de lenguaje natural | 2029448 | 12 ago – 29 sep (el folleto dice 19 sep) | Terminado · material en carga | [01 - Procesamiento y Entendimiento de Lenguaje Natural](01%20-%20Procesamiento%20y%20Entendimiento%20de%20Lenguaje%20Natural/README.md) |
 | 2 | Deep Learning | 2029446 | 23 sep – ~7 nov (el folleto dice 31 oct) | **En curso** | [02 - Deep Learning](02%20-%20Deep%20Learning/README.md) |
 | 3 | Metodologías Ágiles para el Desarrollo de Aplicaciones con Machine Learning | 2029447 | 4 nov – 12 dic | Pendiente | [03 - Metodologias Agiles para Aplicaciones con ML](03%20-%20Metodologias%20Agiles%20para%20Aplicaciones%20con%20ML/README.md) |
 
@@ -18,6 +22,13 @@ El diplomado suma 192 horas en 3 módulos de 64 horas, con 4 créditos homologab
 
 ```
 ├── 01 - Procesamiento y Entendimiento de Lenguaje Natural/
+│   ├── 00 - Presentacion del Curso/
+│   ├── 01 - Introduccion a NLP/              (Tarea 1)
+│   ├── 02 - Preprocesamiento/                (material/ + notas.md, Tarea 2)
+│   ├── 03 - Embeddings/                      (Tarea 3)
+│   ├── 04 - Analisis Supervisado en Textos/  (Tarea 4)
+│   ├── 05 - Analisis No Supervisado/
+│   └── 06 - Proyecto Aplicado/               (fases 1–4 y entrega final)
 ├── 02 - Deep Learning/
 │   ├── 00 - Presentacion del Curso/
 │   ├── 01 - Intro TensorFlow PyTorch Keras/   (material/ + notas.md)
@@ -32,7 +43,7 @@ El diplomado suma 192 horas en 3 módulos de 64 horas, con 4 créditos homologab
 Convenciones de cada módulo:
 - `material/`: PDFs de clase.
 - `notas.md`: apuntes de la unidad.
-- `entregables/`: talleres y tareas, con la plantilla, la versión resuelta y su documentación.
+- `entregables/Tarea N/`: cada tarea separada en `plantilla/` (notebook sin resolver y `enunciado.md`) y `resuelto/` (notebook resuelto y `paso_a_paso.md`).
 
 ## Evaluación (según el folleto)
 
