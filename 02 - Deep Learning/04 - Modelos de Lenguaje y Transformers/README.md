@@ -7,3 +7,6 @@
 
 ## Entregables
 _Sin registrar._
+
+## Notas complementarias
+- [Fine-tuning eficiente de modelos de lenguaje (PEFT)](notas-fine-tuning-peft.md): fine-tuning completo, LoRA, LoRA-FA, QLoRA y TinyLoRA, con el cálculo de parámetros para un modelo de 70B.
