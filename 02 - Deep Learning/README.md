@@ -44,8 +44,8 @@ Para aprobar (según el folleto): nota global ≥ 3.0 / 5 y el 80 % de las activ
 
 | Entregable | Peso | Unidad | Fecha de entrega | Estado | Nota |
 |------------|------|--------|------------------|--------|------|
-| Tarea 1 · Clasificación lineal ([doc](01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/entregables/Tarea%201/documentacion.md)) | | U1 | 08-oct-2026, 23:59 COT | ✅ Entregada en UNCode | 100 % |
-| Tarea 2 · Redes neuronales con Keras ([doc](02%20-%20Redes%20Neuronales%20Keras/entregables/Tarea%202/documentacion.md)) | | U2 | 15-oct-2026, 23:59 COT | ✅ Entregada a tiempo en UNCode | 100 % |
+| Tarea 1 · Clasificación lineal ([doc](01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/entregables/Tarea%201/resuelto/paso_a_paso.md)) | | U1 | 08-oct-2026, 23:59 COT | ✅ Entregada en UNCode | 100 % |
+| Tarea 2 · Redes neuronales con Keras ([doc](02%20-%20Redes%20Neuronales%20Keras/entregables/Tarea%202/resuelto/paso_a_paso.md)) | | U2 | 15-oct-2026, 23:59 COT | ✅ Entregada a tiempo en UNCode | 100 % |
 | Taller 3 | | | | | |
 | Taller 4 | | | | | |
 | Taller 5 | | | | | |
@@ -60,4 +60,4 @@ Ni el folleto ni las diapositivas traen fechas de entrega; hay que tomarlas de l
 - `material/`: PDFs de la clase, renombrados como `UN - Tema.pdf`.
 - `notas.md`: apuntes de la unidad.
 - Notebooks de Colab: `NN - descripcion.ipynb` en la carpeta de su unidad.
-- `entregables/`: lo entregado, tal como se subió.
+- `entregables/Tarea N/`: cada tarea en dos partes. `plantilla/` guarda el notebook original sin resolver y `enunciado.md`, con lo que pide cada función. `resuelto/` guarda el notebook resuelto y `paso_a_paso.md`, con lo que se hizo, por qué y qué resultado dio. El `README.md` de la tarea indexa ambas partes.

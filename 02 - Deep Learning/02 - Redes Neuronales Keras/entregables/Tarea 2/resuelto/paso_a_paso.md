@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Módulo** | Deep Learning (MLDS 5) · Unidad 2: Redes neuronales en Keras |
-| **Archivos** | [v2_M5U2_Tarea_2.ipynb](v2_M5U2_Tarea_2.ipynb) (plantilla vacía) · [v2_M5U2_Tarea_2_Resuelto.ipynb](v2_M5U2_Tarea_2_Resuelto.ipynb) (versión entregada) · [Tarea2_Analisis_de_fondo.pdf](Tarea2_Analisis_de_fondo.pdf) (guía con gráficas) |
+| **Archivos** | [v2_M5U2_Tarea_2.ipynb](../plantilla/v2_M5U2_Tarea_2.ipynb) (plantilla vacía) · [v2_M5U2_Tarea_2_Resuelto.ipynb](v2_M5U2_Tarea_2_Resuelto.ipynb) (versión entregada) · [Tarea2_Analisis_de_fondo.pdf](Tarea2_Analisis_de_fondo.pdf) (guía con gráficas) |
 | **Calificación** | Automática en **UNCode**: [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/53b13ba1-cfc1-46fe-b4ad-2393da25a238) |
 | **Fecha límite** | 15 de octubre de 2026, 23:59 (hora de Colombia). Entregada a tiempo |
 | **Resultado** | ✅ **100 %**: las 18 pruebas en 100 y envío *"Grading succeeded"* |
@@ -385,5 +385,5 @@ El modelo final acierta **666 de 719** imágenes de prueba (92,63 %).
 - *Diabetes* no viene de la UCI: es el dataset de Efron et al. (2004) que trae scikit-learn.
 
 ## 11. Relación con los apuntes del curso
-- [U1 · notas.md](../../../01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/notas.md): tensores, `GradientTape`, optimizadores y regresión logística en TensorFlow y en Keras. Esta tarea pasa de esa regresión logística (una sola neurona) a redes con capas ocultas.
+- [U1 · notas.md](../../../../01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/notas.md): tensores, `GradientTape`, optimizadores y regresión logística en TensorFlow y en Keras. Esta tarea pasa de esa regresión logística (una sola neurona) a redes con capas ocultas.
 - U2, redes neuronales en Keras: el PDF de la clase 2 aún no está en el repositorio.

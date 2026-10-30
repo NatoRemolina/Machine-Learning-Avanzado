@@ -40,10 +40,29 @@ Ejecutar un proyecto de deep learning usando las técnicas y herramientas del cu
 | Fase | Peso en el proyecto | Fecha | Estado | Nota | Archivos |
 |------|---------------------|-------|--------|------|----------|
 | 1 · Entendimiento del negocio y carga de datos | 10 % | Dom 18-oct | ✅ Entregada (15-oct) · retroalimentación pendiente | | [Fase 1-Entrega 1](Proyecto/Fase%201-Entrega%201/) |
-| 2 · Entendimiento y preparación de los datos | | **Jue 22-oct (oficial, Classroom)** | Pendiente: faltan las instrucciones y la rubrica 2.png | | |
-| 3 · Diseño e implementación | | Mar 27-oct | Pendiente | | |
+| 2 · Entendimiento y preparación de los datos | 10 % | Jue 22-oct, 23:59 | ✅ Entregada y **calificada** (comentario abajo) | | [Fase 2-Entrega 2](Proyecto/Fase%202-Entrega%202/) |
+| 3 · Diseño e implementación | 10 % | _por confirmar en Classroom_ | Notebook listo; falta ejecutarlo en Colab y entregarlo | | [Fase 3-Entrega 3](Proyecto/Fase%203-Entrega%203/) |
 | 4 · Entrenamiento y validación | | Dom 1-nov | Pendiente | | |
 | 5 · Evaluación y entrega final + presentación | | Sáb 7-nov | Pendiente | | |
+
+### Retroalimentación de la Fase 2
+Comentario privado del asistente docente Juan Sebastián Malagón Torres (26-oct-2026):
+
+> Trabajo muy completo y riguroso. La exploración revisa integridad, formato, duplicados y casi duplicados entre particiones, desbalance, descriptores de imagen y atípicos con decisiones justificadas, y el preprocesamiento define un redimensionado con relleno bien argumentado, una caché eficiente y un pipeline con aumentos solo en entrenamiento verificado visualmente.
+
+### Fase 3 · Diseño e implementación
+- **Partición:** la de la Fase 2, fijada archivo por archivo y verificada (1.798 / 360 / 363).
+- **Diseño experimental:**
+  - pregunta experimental: ¿transferencia de aprendizaje frente a CNN desde cero?;
+  - F1 macro de validación como métrica principal;
+  - tres configuraciones: A, B y B-FT;
+  - comparaciones de la Fase 4 y prueba del atajo de color con *gray world*.
+- **Modelos:**
+  - **A:** CNN pequeña de 4 bloques, 391.398 parámetros.
+  - **B:** MobileNetV2 de ImageNet congelada con cabeza nueva; 2.265.670 parámetros, de los que se entrenan 7.686.
+  - **B-FT:** ajuste fino de las últimas 30 capas.
+- **Implementación verificada:** forma de salida, pérdida inicial ≈ ln 6, sobreajuste de un lote y ensayo de 2 épocas con tiempos; 10 de 10 controles en OK.
+- **Línea base de transferencia:** MobileNetV2 congelada con regresión logística alcanza **F1 macro 0,745** en validación, frente a 0,528 de la Fase 2. Con *gray world* no cae (0,757).
 
 ### Contenido de `Proyecto/Fase 1-Entrega 1/`
 - `Proyecto_Fase1_Clasificacion_Residuos.ipynb`: **nuestro notebook de entrega**.
