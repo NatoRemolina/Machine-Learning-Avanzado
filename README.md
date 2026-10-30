@@ -8,7 +8,7 @@ El diplomado suma 192 horas en 3 módulos de 64 horas, con 4 créditos homologab
 
 ## Proyecto destacado
 
-**[Análisis de sentimiento en noticias económicas en español](01%20-%20Procesamiento%20y%20Entendimiento%20de%20Lenguaje%20Natural/06%20-%20Proyecto%20Aplicado/README.md):** proyecto aplicado del módulo de NLP. Corpus de 7.125 oraciones financieras, preprocesamiento con spaCy, comparación de BoW, TF-IDF, Word2Vec y Doc2Vec, y modelo final TF-IDF + regresión logística (F1 macro 0,66).
+**[Análisis de sentimiento en noticias económicas en español](01%20-%20Procesamiento%20y%20Entendimiento%20de%20Lenguaje%20Natural/06%20-%20Proyecto%20Aplicado/README.md):** proyecto aplicado del módulo de NLP. Corpus de 7.125 oraciones financieras, preprocesamiento con spaCy, comparación de BoW, TF-IDF, Word2Vec y Doc2Vec, y modelo final TF-IDF con regresión logística, con F1 macro de 0,66 en prueba.
 
 ## Módulos
 

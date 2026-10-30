@@ -5,6 +5,6 @@
 | Archivo | Contenido |
 |---|---|
 | [Instrucciones Proyecto aplicado fase 2.docx](Instrucciones%20Proyecto%20aplicado%20fase%202.docx) | Enunciado |
-| [Rubrica Fase 2.png](Rubrica%20Fase%202.png) | Rúbrica (10 %) |
+| [Rubrica Fase 2.png](Rubrica%20Fase%202.png) | Rúbrica, 10 % del proyecto |
 | [M4U3_Fase_2_exploratory_data_analysis.ipynb](M4U3_Fase_2_exploratory_data_analysis.ipynb) | Notebook guía del curso |
-| [M4U3_Fase_2_Analisis_Sentimiento_Noticias_Economicas_MEJORADO.ipynb](M4U3_Fase_2_Analisis_Sentimiento_Noticias_Economicas_MEJORADO.ipynb) | Notebook del equipo, versión mejorada del 17-sept (la del 10-sept no está en el material) |
+| [M4U3_Fase_2_Analisis_Sentimiento_Noticias_Economicas_MEJORADO.ipynb](M4U3_Fase_2_Analisis_Sentimiento_Noticias_Economicas_MEJORADO.ipynb) | Notebook del equipo, versión mejorada del 17-sept; la del 10-sept no está en el material |

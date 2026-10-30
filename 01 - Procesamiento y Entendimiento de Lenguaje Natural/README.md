@@ -11,7 +11,7 @@ Abordar los temas principales del procesamiento de lenguaje natural por medios c
 
 ## Proyecto aplicado destacado
 
-**[Análisis de sentimiento en noticias económicas en español](06%20-%20Proyecto%20Aplicado/README.md):** clasificador de sentimiento (negativo, neutral o positivo) para 7.125 oraciones financieras, con spaCy, TF-IDF y regresión logística. F1 macro de 0,66 en prueba.
+**[Análisis de sentimiento en noticias económicas en español](06%20-%20Proyecto%20Aplicado/README.md):** clasificador de sentimiento negativo, neutral o positivo para 7.125 oraciones financieras, con spaCy, TF-IDF y regresión logística. F1 macro de 0,66 en prueba.
 
 ## Unidades
 
