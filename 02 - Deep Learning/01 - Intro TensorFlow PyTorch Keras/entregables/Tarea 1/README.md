@@ -11,5 +11,6 @@
 
 | Parte | Archivos | Qué explica |
 |---|---|---|
-| **1 · Plantilla** (sin resolver) | [notebook](plantilla/v2_M5U1_Tarea_1.ipynb) | Notebook original del curso; el enunciado está explicado en el paso a paso |
-| **2 · Resuelto** | [notebook resuelto](resuelto/v2_M5U1_Tarea_1_Resuelto.ipynb) · [paso_a_paso.md](resuelto/paso_a_paso.md) · [análisis de fondo (PDF)](resuelto/Tarea1_Analisis_de_fondo.pdf) | Paso a paso de la solución, resultados verificados y nota de UNCode |
+| **1 · Plantilla** sin resolver | [notebook original](plantilla/v2_M5U1_Tarea_1.ipynb) · [enunciado.md](plantilla/enunciado.md) | Qué pide cada función, qué trae ya escrito la plantilla y las erratas del enunciado |
+| **2 · Resuelto** | [notebook resuelto](resuelto/v2_M5U1_Tarea_1_Resuelto.ipynb) · [notebook explicado](resuelto/v2_M5U1_Tarea_1_Explicado.ipynb) · [paso_a_paso.md](resuelto/paso_a_paso.md) · [guía de estudio en PDF](resuelto/Tarea1_Guia_de_estudio.pdf) · [análisis de fondo en PDF](resuelto/Tarea1_Analisis_de_fondo.pdf) | Paso a paso de la solución y resultados. El notebook explicado trae, antes de cada celda de código, su objetivo y qué hace cada parte; la guía en PDF añade teoría, diagramas, curvas, decisiones y autoevaluación |
+| **3 · Balance** | [balance.md](balance.md) | Comparación celda por celda entre plantilla y resuelto: celdas modificadas, líneas escritas, salida esperada frente a obtenida y requisitos que hubo que descubrir |

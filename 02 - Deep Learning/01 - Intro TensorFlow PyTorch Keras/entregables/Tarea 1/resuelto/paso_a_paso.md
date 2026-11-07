@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Módulo** | Deep Learning (MLDS 5) · Unidad 1: Introducción al Deep Learning (TensorFlow y Keras) |
-| **Archivos** | [v2_M5U1_Tarea_1.ipynb](../plantilla/v2_M5U1_Tarea_1.ipynb) (plantilla sin resolver) · [v2_M5U1_Tarea_1_Resuelto.ipynb](v2_M5U1_Tarea_1_Resuelto.ipynb) (versión entregada) · [Tarea1_Analisis_de_fondo.pdf](Tarea1_Analisis_de_fondo.pdf) (informe de resultados) |
+| **Archivos** | [v2_M5U1_Tarea_1.ipynb](../plantilla/v2_M5U1_Tarea_1.ipynb) (plantilla sin resolver) · [v2_M5U1_Tarea_1_Resuelto.ipynb](v2_M5U1_Tarea_1_Resuelto.ipynb) (versión entregada) · [Tarea1_Analisis_de_fondo.pdf](Tarea1_Analisis_de_fondo.pdf) (informe de resultados) · [versión explicada celda por celda](v2_M5U1_Tarea_1_Explicado.ipynb) · [guía de estudio en PDF](Tarea1_Guia_de_estudio.pdf) · [balance](../balance.md) |
 | **Calificación** | Automática en **UNCode**: [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/cd16b03a-f1d7-4cc0-9a82-61ed5c8d030d) |
 | **Fecha límite** | 8 de octubre de 2026, 23:59 (hora de Colombia). Entregada en UNCode |
 | **Resultado** | ✅ **100 %**: las 12 pruebas en 100 y *"Your submission grade: 100.0%"* |
