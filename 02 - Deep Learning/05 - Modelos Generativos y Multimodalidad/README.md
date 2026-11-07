@@ -6,4 +6,6 @@
 - Aplicar Transformers en tareas multimodales, como image captioning.
 
 ## Entregables
-_Sin registrar._
+| Entregable | Archivos | Calificación | Estado |
+|---|---|---|---|
+| **Tarea 5: Modelos generativos**, Transformer codificador-decodificador de inglés a emojis | [índice](entregables/Tarea%205/README.md) · [paso a paso](entregables/Tarea%205/resuelto/paso_a_paso.md) | UNCode, 6 funciones y 11 pruebas | ✅ Entregada · **100 %** |
