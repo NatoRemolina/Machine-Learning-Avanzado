@@ -8,7 +8,7 @@
 ## Entregables
 | Entregable | Archivos | Calificación | Estado |
 |---|---|---|---|
-| **Tarea 4: Transformers**, clasificación de noticias de Reuters en 46 temas | [índice](entregables/Tarea%204/README.md) · [plantilla](entregables/Tarea%204/plantilla/enunciado.md) · [balance](entregables/Tarea%204/balance.md) | UNCode, 5 funciones y 12 pruebas | ✅ Entregada · **100 %** |
+| **Tarea 4: Transformers**, clasificación de noticias de Reuters en 46 temas | [índice](entregables/Tarea%204/README.md) · [plantilla](entregables/Tarea%204/plantilla/enunciado.md) · [paso a paso](entregables/Tarea%204/resuelto/paso_a_paso.md) · [balance](entregables/Tarea%204/balance.md) | UNCode, 5 funciones y 12 pruebas | ✅ Entregada · **100 %** |
 
 ## Notas complementarias
 - [Fine-tuning eficiente de modelos de lenguaje (PEFT)](notas-fine-tuning-peft.md): fine-tuning completo, LoRA, LoRA-FA, QLoRA y TinyLoRA, con el cálculo de parámetros para un modelo de 70B.

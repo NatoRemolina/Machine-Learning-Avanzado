@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | **Archivo** | [v2_M5U4_Tarea_4.ipynb](v2_M5U4_Tarea_4.ipynb), ejecutado en Colab con GPU T4 el 29 de octubre de 2026 |
+| **Versión explicada** | [v2_M5U4_Tarea_4_Explicado.ipynb](v2_M5U4_Tarea_4_Explicado.ipynb): el mismo notebook, con una explicación antes de cada celda de código y una lectura de las salidas principales |
 | **Entorno** | Python 3.13.16 · NumPy 2.1.3 · Keras 3.13.2 |
 | **Resultado** | ✅ Las **12 pruebas en 100** y envío oficial con *«Your submission grade: 100.0%»* |
 
@@ -20,4 +21,4 @@ Las cinco primeras épocas de validación coinciden exactamente con la salida es
 - **`seq_preprocess`:** rellena o recorta cada noticia a `max_len - 1` y antepone el `[CLS]` después. Así, en las noticias largas, el recorte por defecto de Keras conserva el final de la noticia y el `[CLS]` nunca se pierde.
 - **`get_config()`:** las capas personalizadas de este notebook no lo implementan y aun así las pruebas 4_1 y 4_2 dieron 100. La advertencia que había aquí antes no se confirmó.
 
-`paso_a_paso.md` queda pendiente: se escribirá con el análisis de la tarea.
+La explicación completa, celda por celda, está en [paso_a_paso.md](paso_a_paso.md).

@@ -47,7 +47,7 @@ Para aprobar (según el folleto): nota global ≥ 3.0 / 5 y el 80 % de las activ
 | Tarea 1 · Clasificación lineal ([doc](01%20-%20Intro%20TensorFlow%20PyTorch%20Keras/entregables/Tarea%201/resuelto/paso_a_paso.md)) | | U1 | 08-oct-2026, 23:59 COT | ✅ Entregada en UNCode | 100 % |
 | Tarea 2 · Redes neuronales con Keras ([doc](02%20-%20Redes%20Neuronales%20Keras/entregables/Tarea%202/resuelto/paso_a_paso.md)) | | U2 | 15-oct-2026, 23:59 COT | ✅ Entregada a tiempo en UNCode | 100 % |
 | Tarea 3 · Redes convolucionales | | U3 | | No registrada | |
-| Tarea 4 · Transformers ([doc](04%20-%20Modelos%20de%20Lenguaje%20y%20Transformers/entregables/Tarea%204/README.md)) | | U4 | | ✅ Entregada en UNCode | 100 % |
+| Tarea 4 · Transformers ([doc](04%20-%20Modelos%20de%20Lenguaje%20y%20Transformers/entregables/Tarea%204/resuelto/paso_a_paso.md)) | | U4 | | ✅ Entregada en UNCode | 100 % |
 | Tarea 5 · Modelos generativos ([doc](05%20-%20Modelos%20Generativos%20y%20Multimodalidad/entregables/Tarea%205/resuelto/paso_a_paso.md)) | | U5 | | ✅ Entregada en UNCode | 100 % |
 | Proyecto aplicado: 5 fases semanales ([detalle](06%20-%20Proyecto%20Aplicado/README.md)) | 30 % | 6 | | Fase 1 entregada (15-oct); Fase 2 vence el 22-oct | |
 | Participación | 15 % | — | — | — | |

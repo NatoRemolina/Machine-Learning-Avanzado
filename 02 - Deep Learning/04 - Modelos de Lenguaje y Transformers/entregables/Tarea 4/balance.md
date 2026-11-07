@@ -91,4 +91,4 @@ Las dos versiones obtienen la nota máxima. Si se archiva la del análisis, conv
 | Envío oficial | ✅ **100 %** |
 | Fidelidad a la plantilla | Solo se modificaron las celdas calificadas |
 | Plantilla original | ✅ [archivada](plantilla/v2_M5U4_Tarea_4.ipynb), con su [enunciado explicado](plantilla/enunciado.md) |
-| Documentación de la solución | [Resultado y observaciones](resuelto/README.md); el paso a paso detallado está pendiente |
+| Documentación de la solución | ✅ [paso a paso](resuelto/paso_a_paso.md) y [resumen del resultado](resuelto/README.md) |
