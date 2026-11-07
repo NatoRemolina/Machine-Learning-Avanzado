@@ -8,6 +8,7 @@ Análisis completo del notebook: qué pedía la tarea, el enfoque, el código de
 |---|---|
 | **Módulo** | Deep Learning, MLDS 5 · Unidad 4: Modelos de lenguaje y Transformers |
 | **Notebook** | [v2_M5U4_Tarea_4.ipynb](v2_M5U4_Tarea_4.ipynb) · [versión explicada celda por celda](v2_M5U4_Tarea_4_Explicado.ipynb) |
+| **Anexos** | [Análisis en PDF](Tarea4_Transformer_Reuters_Analisis.pdf), base de este documento · [Guía de estudio en PDF](Tarea4_Guia_de_estudio.pdf) |
 | **Calificación** | UNCode · [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/3feead7a-0040-47fc-b701-11492b6ea6c8) |
 | **Resultado** | ✅ **100 %**: las 12 pruebas en 100 y *"Your submission grade: 100.0%"* |
 | **Entorno** | Google Colab con GPU T4 · Python 3.13.16, NumPy 2.1.3 y Keras 3.13.2 |
@@ -705,7 +706,7 @@ El notebook guarda la huella de este proceso: los contadores de ejecución salta
 
 ## 9. Otra versión de la solución
 
-El análisis de la tarea en PDF describe una ejecución distinta de la archivada en este repositorio. Las dos obtienen 12 de 12 y 100 %.
+El [análisis de la tarea en PDF](Tarea4_Transformer_Reuters_Analisis.pdf) describe una ejecución distinta de la archivada en este repositorio. Las dos obtienen 12 de 12 y 100 %.
 
 | Aspecto | Versión archivada | Versión del análisis |
 |---|---|---|

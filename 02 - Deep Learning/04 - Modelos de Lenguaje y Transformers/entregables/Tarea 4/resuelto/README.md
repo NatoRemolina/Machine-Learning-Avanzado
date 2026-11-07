@@ -3,6 +3,8 @@
 | | |
 |---|---|
 | **Archivo** | [v2_M5U4_Tarea_4.ipynb](v2_M5U4_Tarea_4.ipynb), ejecutado en Colab con GPU T4 el 29 de octubre de 2026 |
+| **Anexo** | [Tarea4_Transformer_Reuters_Analisis.pdf](Tarea4_Transformer_Reuters_Analisis.pdf), análisis completo en PDF |
+| **Guía de estudio** | [Tarea4_Guia_de_estudio.pdf](Tarea4_Guia_de_estudio.pdf): teoría, código explicado, intervención, curvas y autoevaluación |
 | **Versión explicada** | [v2_M5U4_Tarea_4_Explicado.ipynb](v2_M5U4_Tarea_4_Explicado.ipynb): el mismo notebook, con una explicación antes de cada celda de código y una lectura de las salidas principales |
 | **Entorno** | Python 3.13.16 · NumPy 2.1.3 · Keras 3.13.2 |
 | **Resultado** | ✅ Las **12 pruebas en 100** y envío oficial con *«Your submission grade: 100.0%»* |

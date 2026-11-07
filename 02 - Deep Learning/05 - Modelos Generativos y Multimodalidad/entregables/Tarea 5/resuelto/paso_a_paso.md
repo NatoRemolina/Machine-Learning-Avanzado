@@ -8,6 +8,7 @@ Análisis completo del notebook: qué pedía la tarea, el enfoque, el código de
 |---|---|
 | **Módulo** | Deep Learning, MLDS 5 · Unidad 5: Modelos generativos y multimodalidad |
 | **Notebook** | [v2_M5U5_Tarea_5_Resuelto.ipynb](v2_M5U5_Tarea_5_Resuelto.ipynb) · [versión explicada celda por celda](v2_M5U5_Tarea_5_Explicado.ipynb) |
+| **Anexos** | [Análisis original en PDF](Tarea5_Transformer_Emojis_Analisis.pdf), base de este documento · [Guía de estudio en PDF](Tarea5_Guia_de_estudio.pdf) |
 | **Calificación** | UNCode · [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/8c487bd7-4c95-4b75-88d5-9e7093aae729) |
 | **Resultado** | ✅ **100 %**: las 11 pruebas en 100 y *"Your submission grade: 100.0%"* |
 | **Entorno** | Google Colab con Python 3.13.16, NumPy 2.4.6 y Keras 3.13.2 |
