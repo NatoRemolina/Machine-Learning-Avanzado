@@ -5,9 +5,9 @@
 | **Módulo** | Deep Learning (MLDS 5) · Unidad 4: Modelos de lenguaje y Transformers |
 | **Calificación** | Automática en **UNCode**: [página de la tarea](https://uncode.unal.edu.co/course/DL-GroupMLDS-5-2026-2/3feead7a-0040-47fc-b701-11492b6ea6c8) |
 | **Entorno de referencia** | Python 3.11.12 · NumPy 2.0.2 · Keras 3.8.0 · **se recomienda GPU** |
-| **Estructura** | 55 celdas · 5 funciones calificadas · 11 pruebas + envío final |
+| **Estructura** | 55 celdas, 30 de código y 25 de texto · 5 funciones calificadas · 12 pruebas y envío final |
 
-> No se cargó la plantilla en blanco: el archivo recibido ya trae el código escrito y está en [../resuelto/](../resuelto/README.md). Este documento describe lo que pide el enunciado.
+> La plantilla original sin resolver es [v2_M5U4_Tarea_4.ipynb](v2_M5U4_Tarea_4.ipynb). La versión resuelta está en [../resuelto/](../resuelto/README.md) y la comparación entre ambas, en el [balance](../balance.md).
 
 ## 1. ¿De qué trata la tarea?
 
@@ -51,6 +51,9 @@ flowchart LR
 
 ## 5. Detalles y erratas del enunciado
 - **Salida esperada de `get_config()`:** muestra `embed_dim: 32`, aunque la celda construye el modelo con `embed_dim = 16`. Ese resultado viene de otra ejecución.
-- **Configuración de las capas:** esa misma salida incluye `embed_dim`, `max_len`, `vocab_size`, `num_heads`, `ff_dim` y `rate` dentro de la configuración de las capas personalizadas. Para que aparezcan, las clases deben implementar `get_config()`.
+- **Configuración de las capas:** esa misma salida incluye `embed_dim`, `max_len`, `vocab_size`, `num_heads`, `ff_dim` y `rate` dentro de la configuración de las capas personalizadas. Para que aparezcan, las clases deben implementar `get_config()`. Aun así, las pruebas 4_1 y 4_2 dieron 100 con una versión que no lo implementaba, así que el calificador no revisa esa parte de la configuración.
 - **Salidas de `train_model`:** el enunciado dice "modelo e `history`", pero la celda de prueba recibe un solo valor (`history = train_model(...)`).
+- **Qué trae ya escrito la plantilla:** las semillas y `clear_session()` dentro de `get_model`, las firmas de las clases y de sus métodos, y todo lo demás del notebook. Cada función termina en `None`: `X_out`, `layer`, `model` o `history`.
+- **Sangría mixta:** `get_EmbeddingLayer` viene con sangría de 2 espacios, mientras que el resto del notebook usa 4.
+- **Firma de `call` sin `training`:** la plantilla del codificador define `call(self, inputs)`. La versión resuelta añade el argumento `training` y lo pasa de forma explícita a los `Dropout`. Keras 3 también propaga ese valor a las subcapas por su cuenta, así que es una decisión de claridad más que un requisito.
 - **Errores de escritura:** "noticas", "ejeución", "ejemeplo", "sequencias", "estrutura", "deperdida".

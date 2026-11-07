@@ -8,4 +8,4 @@
 ## Entregables
 | Entregable | Archivos | Calificación | Estado |
 |---|---|---|---|
-| **Tarea 5: Modelos generativos**, Transformer codificador-decodificador de inglés a emojis | [índice](entregables/Tarea%205/README.md) · [paso a paso](entregables/Tarea%205/resuelto/paso_a_paso.md) | UNCode, 6 funciones y 11 pruebas | ✅ Entregada · **100 %** |
+| **Tarea 5: Modelos generativos**, Transformer codificador-decodificador de inglés a emojis | [índice](entregables/Tarea%205/README.md) · [plantilla](entregables/Tarea%205/plantilla/enunciado.md) · [paso a paso](entregables/Tarea%205/resuelto/paso_a_paso.md) · [balance](entregables/Tarea%205/balance.md) | UNCode, 6 funciones y 11 pruebas | ✅ Entregada · **100 %** |

@@ -10,5 +10,6 @@
 
 | Parte | Archivos | Qué explica |
 |---|---|---|
-| **1 · Plantilla** sin resolver | _No se cargó la plantilla en blanco_ | El enunciado de cada función está explicado dentro del paso a paso |
+| **1 · Plantilla** sin resolver | [notebook original](plantilla/v2_M5U5_Tarea_5.ipynb) · [enunciado.md](plantilla/enunciado.md) | Qué pide cada una de las 6 funciones, qué trae ya escrito la plantilla y las erratas del enunciado |
 | **2 · Resuelto** | [notebook resuelto](resuelto/v2_M5U5_Tarea_5_Resuelto.ipynb) · [paso_a_paso.md](resuelto/paso_a_paso.md) · [guía de estudio en PDF](resuelto/Tarea5_Guia_de_estudio.pdf) | Transformer codificador-decodificador que traduce frases en inglés a emojis: qué se hizo en cada función, resultados y observaciones. La guía en PDF añade la teoría de fondo, diagramas, el seguimiento de formas, las curvas de entrenamiento, la intervención y preguntas de autoevaluación |
+| **3 · Balance** | [balance.md](balance.md) | Comparación celda por celda entre plantilla y resuelto: 6 celdas modificadas y 73 líneas escritas, salida esperada frente a obtenida y requisitos que hubo que descubrir |
